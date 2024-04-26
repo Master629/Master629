@@ -1,6 +1,12 @@
 I'm Master629, an 12 year old coder, designer, and maker. 
+
+
 I know HTML, Python and a little bit of CSS.
+
+
 I have a highly modded Ender 3 with Klipper BTT SKR Mini E3 V3
+
+
 I work on a 6 year old computer!
 
 <!---
